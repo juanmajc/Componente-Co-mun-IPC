@@ -3,7 +3,7 @@
 Autor: Ing. Mgtr. Juan Manuel Jiménez Cruz  
 Email: <juanmajc21@gmail.com>  
 LinkedIn: [www.linkedin/juanmajc](https://www.linkedin.com/in/juanmajc/)  
-Repositorio: [juanmajc/Componente-Comun-IPC](https://github.com/juanmajc/Componente-Comun-IPC)
+Repositorio: [juanmajc/Componente-Comun-IPC](https://github.com/juanmajc/Componente-Co-mun-IPC)
 
 
 ## Resumen
